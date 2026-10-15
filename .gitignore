@@ -1,0 +1,4 @@
+# 此仓库只管理公开发布说明；安装包使用 GitHub Release 附件发布。
+/*
+!/.gitignore
+!/README.md
