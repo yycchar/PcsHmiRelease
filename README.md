@@ -13,6 +13,5 @@
 
 ## 当前发布
 
-[2026-10-15 产物快照](https://github.com/yycchar/PcsHmiRelease/releases/tag/release-20261015-01)
-
-调试上位机 1.0.4；维护上位机 1.0.7；部署上位机 1.0.0；边端服务 1.0.6。
+- [调试上位机 1.0.10](https://github.com/yycchar/PcsHmiRelease/releases/tag/pcshmi-app-v1.0.10)：Windows x64，需要安装 .NET 10 x64 Runtime。此次仅更新调试上位机。
+- [其他产品：2026-10-15 产物快照](https://github.com/yycchar/PcsHmiRelease/releases/tag/release-20261015-01)：维护上位机 1.0.7、部署上位机 1.0.0、边端服务 1.0.6。
